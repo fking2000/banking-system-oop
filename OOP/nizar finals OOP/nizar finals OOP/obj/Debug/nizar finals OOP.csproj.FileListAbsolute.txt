@@ -1,0 +1,8 @@
+C:\Users\coolb\source\repos\nizar finals OOP\nizar finals OOP\obj\Debug\nizar finals OOP.csproj.AssemblyReference.cache
+C:\Users\coolb\source\repos\nizar finals OOP\nizar finals OOP\obj\Debug\nizar finals OOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\coolb\source\repos\nizar finals OOP\nizar finals OOP\obj\Debug\nizar finals OOP.csproj.CoreCompileInputs.cache
+C:\Users\coolb\source\repos\nizar finals OOP\nizar finals OOP\bin\Debug\nizar finals OOP.exe.config
+C:\Users\coolb\source\repos\nizar finals OOP\nizar finals OOP\bin\Debug\nizar finals OOP.exe
+C:\Users\coolb\source\repos\nizar finals OOP\nizar finals OOP\bin\Debug\nizar finals OOP.pdb
+C:\Users\coolb\source\repos\nizar finals OOP\nizar finals OOP\obj\Debug\nizar finals OOP.exe
+C:\Users\coolb\source\repos\nizar finals OOP\nizar finals OOP\obj\Debug\nizar finals OOP.pdb
